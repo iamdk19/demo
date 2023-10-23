@@ -1,3 +1,4 @@
+//adding of two no
 class addNo
 {
 	public static void main(String args[])
