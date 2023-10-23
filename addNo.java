@@ -8,5 +8,9 @@ class addNo
 	num2=75;
 	int result=num1+num2;
 	System.out.print("Result is= "+result);
+System.out.print("Result is= "+result);
+System.out.print("Result is= "+result);
+System.out.print("Result is= "+result);
+System.out.print("Result is= "+result);
     }
 }
